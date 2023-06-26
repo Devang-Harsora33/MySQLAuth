@@ -1,0 +1,21 @@
+body{
+  background-color:rgb(201, 232, 255);
+}
+button {
+  width: 50%;
+  height: 2rem;
+  margin-left: 8rem;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 0.5s;
+  
+}
+button:hover{
+  background-color: #45a049;
+  border-radius: 1rem;
+  border: 1px solid #000;;
+
+}
